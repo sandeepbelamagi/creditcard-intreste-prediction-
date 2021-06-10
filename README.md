@@ -1,1 +1,1 @@
-# creditcard card activation prediction based on the customer intrest
+# creditcard card activation prediction based on the customer interest
