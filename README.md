@@ -1,1 +1,1 @@
-# creditcard-data-analysis
+# creditcard card activation prediction based on the customer intrest
